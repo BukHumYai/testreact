@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.bg{
+  background-image: url(img/Pokemon-battle.jpg);
+  display: flex;
+  background-size: cover;
+  width: 1112px;
+  height: 742px;
+}
